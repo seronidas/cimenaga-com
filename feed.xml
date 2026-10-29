@@ -6,12 +6,12 @@
 <description>Kastamonu pastırması, sucuğu ve pastırmalı ince pide (pastırmalı ekmek)</description>
 <item>
 <g:id>pastirma</g:id>
-<title>Kastamonu Pastırması 1 kg</title>
-<description>Kemiksiz sırt eti kaya tuzuyla tuzlanır, ağırlık altında sıkıştırılır, güneşte kurutulur ve Taşköprü sarımsaklı çimenle kaplanır. Tadı orta tuzlu, sarımsağı belirgindir. 1 kg olarak satılır. Çimenli ya da çimensiz seçilebilir.</description>
+<title>Kastamonu Pastırması 500 g</title>
+<description>Kemiksiz sırt eti kaya tuzuyla tuzlanır, ağırlık altında sıkıştırılır, güneşte kurutulur ve Taşköprü sarımsaklı çimenle kaplanır. Tadı orta tuzlu, sarımsağı belirgindir. 500 g ve katları olarak satılır (1 kg: 2.800 TRY); WhatsApp'tan 250 g ve katları da istenebilir. Çimenli ya da çimensiz seçilebilir.</description>
 <link>https://cimenaga.com/urun/kastamonu-pastirmasi.html</link>
 <g:image_link>https://cimenaga.com/assets/img/pastirma.webp</g:image_link>
 <g:availability>in_stock</g:availability>
-<g:price>2800.00 TRY</g:price>
+<g:price>1400.00 TRY</g:price>
 <g:condition>new</g:condition>
 <g:brand>Çimenağa Pastırma</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
@@ -25,12 +25,12 @@
 </item>
 <item>
 <g:id>sucuk</g:id>
-<title>Kastamonu Sucuğu 1 kg</title>
-<description>Kastamonu'nun yöresel et ürünlerinden biri olan baharatlı, doyurucu sucuk. Kahvaltıda yumurtayla, ekmek arasında ya da pidenin üstünde yenir; tavada, ızgarada pişirilebilir veya dilimlenip soğuk servis edilir. 1 kg olarak satılır.</description>
+<title>Kastamonu Sucuğu 500 g</title>
+<description>Kastamonu'nun yöresel et ürünlerinden biri olan baharatlı, doyurucu sucuk. Kahvaltıda yumurtayla, ekmek arasında ya da pidenin üstünde yenir; tavada, ızgarada pişirilebilir veya dilimlenip soğuk servis edilir. 500 g ve katları olarak satılır (1 kg: 2.000 TRY).</description>
 <link>https://cimenaga.com/urun/kastamonu-sucugu.html</link>
 <g:image_link>https://cimenaga.com/assets/img/sucuk.webp</g:image_link>
 <g:availability>in_stock</g:availability>
-<g:price>2000.00 TRY</g:price>
+<g:price>1000.00 TRY</g:price>
 <g:condition>new</g:condition>
 <g:brand>Çimenağa Pastırma</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
@@ -45,7 +45,7 @@
 <item>
 <g:id>pide</g:id>
 <title>Kastamonu Pastırmalı İnce Pide</title>
-<description>İnce hamurlu, Kastamonu pastırmalı pide, yöredeki adıyla pastırmalı ekmek; Kastamonu'da odun fırınında pişirilir ve dondurulmuş olarak gönderilir. Soğanlı ya da az soğanlı seçilebilir. Fiyat adet başınadır.</description>
+<description>İnce hamurlu, Kastamonu pastırmalı pide, yöredeki adıyla pastırmalı ekmek; Kastamonu'da birlikte çalışılan odun fırınında pişirilir ve dondurulmuş olarak gönderilir. Soğanlı ya da az soğanlı seçilebilir. Fiyat adet başınadır.</description>
 <link>https://cimenaga.com/urun/kastamonu-pastirmali-ince-pide.html</link>
 <g:image_link>https://cimenaga.com/assets/img/pide.webp</g:image_link>
 <g:availability>in_stock</g:availability>

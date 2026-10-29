@@ -18,3 +18,12 @@ Gönderim: Türkiye'nin her yerine
 - [Kastamonu'da Ne Yapılır?](https://cimenaga.com/kastamonuda-ne-yapilir.html): Kale, müze ve Taşköprü gezi önerileri
 - [Hikâyemiz](https://cimenaga.com/hikayemiz.html)
 - [İletişim](https://cimenaga.com/iletisim.html)
+- [Hakkımızda](https://cimenaga.com/hakkimizda.html)
+- [İptal ve İade Koşulları](https://cimenaga.com/iade-ve-iptal-politikasi.html)
+
+## Tarifler ve makaleler
+- [Çimenağa Tarifler](https://cimenagapastirma.com/): Kastamonu pastırması ve sucuğuyla 8 tarif ve 4 makale
+- [Tam metin kütüphanesi](https://cimenagapastirma.com/llms-full.txt)
+
+## Fiyat ve satış birimi
+Pastırma 500 g 1.400 ₺ (1 kg 2.800 ₺), sucuk 500 g 1.000 ₺ (1 kg 2.000 ₺), pastırmalı ince pide adet 350 ₺. 5.000 ₺ ve üzeri siparişlerde kargo ücretsiz, altında 250 ₺.
