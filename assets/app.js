@@ -183,3 +183,24 @@ document.addEventListener("click", async (e) => {
 });
 
 render();
+
+// Reklam bilgilendirme bandı: kapatılınca bu tarayıcıda bir daha gösterilmez.
+(() => {
+  const KEY = "ad-note-closed";
+  try { if (localStorage.getItem(KEY)) return; } catch {}
+  const note = document.createElement("div");
+  note.id = "ad-note";
+  note.setAttribute("role", "region");
+  note.setAttribute("aria-label", "Reklam bilgilendirmesi");
+  note.innerHTML = '<p>Online reklam platformları, daha önce onlarla paylaştığınız bilgiler aracılığıyla sizi bu siteye getirmiş olabilir. <a href="/gizlilik-politikasi.html">Ayrıntılı bilgi</a></p><button type="button" aria-label="Kapat">×</button>';
+  document.body.append(note);
+  const fit = () => document.documentElement.style.setProperty("--note-h", note.offsetHeight + "px");
+  fit();
+  addEventListener("resize", fit);
+  note.querySelector("button").addEventListener("click", () => {
+    note.remove();
+    removeEventListener("resize", fit);
+    document.documentElement.style.removeProperty("--note-h");
+    try { localStorage.setItem(KEY, "1"); } catch {}
+  });
+})();
